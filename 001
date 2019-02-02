@@ -1,0 +1,6 @@
+
+var myStr = "Hello World";
+
+console.log(myStr)
+
+
